@@ -44,7 +44,6 @@ const FilteredEventsPage = () => {
 
   return (
     <Fragment>
-      <p>hueei eee</p>
       <ResultsTitle date={ date } />
       <EventList items={ filteredEvents } />
     </Fragment>
